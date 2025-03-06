@@ -1,1 +1,6 @@
-# wsl-cheat-sheet
+# WSL Cheat Sheet
+
+## Install
+```powershell
+wsl --install
+```
